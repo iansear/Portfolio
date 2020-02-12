@@ -1,0 +1,42 @@
+#title {
+    margin: 30;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#title a {
+    margin: 5px;
+}
+
+#my-projects {
+    flex-wrap: wrap;
+}
+
+#my-projects img {
+    width: 400px;
+}
+
+#contact-me {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#contact-me img {
+    width: 400px;
+}
+
+#footer {
+    display: flex;
+    justify-content: center;
+}
+
+#footer a {
+    margin: 5px;
+}
+
+.section {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
