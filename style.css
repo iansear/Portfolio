@@ -8,12 +8,27 @@
     margin: 5px;
 }
 
+#my-skills {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+#my-skills i {
+    margin: 10px;
+}
+
 #my-projects {
     flex-wrap: wrap;
 }
 
 #my-projects img {
     width: 400px;
+}
+
+#project {
+    width: 400px;
+    margin: 20px;
 }
 
 #contact-me {
